@@ -1,0 +1,8 @@
+datascience
+matplotlib
+pandas
+scipy
+numpy
+plotly
+seaborn
+scipy
